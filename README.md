@@ -8,7 +8,7 @@ This repository presents text files that reflect and meditate on various aspects
 
 The texts in this repository offer individual meditations and reflections on the concepts and theories of David Deutsch. You can browse through the various files and select those that pique your interest.
 
-**Note:** This repository is for educational purposes only and for the discussion of ideas. It has been created by fans and enthusiasts and has no official connection to David Deutsch or his publishers.
+**Note:** This repository is for the discussion of ideas. It has been created by a fan and enthusiast and has no official connection to David Deutsch or his publishers.
 
 Between Vanilla Ice Cream and the Dentist – On the Structure of Consciousness in a Possible World
 
@@ -98,7 +98,7 @@ Die Texte in diesem Repository bieten individuelle Meditationen und Reflexionen 
 
 
 
-**Hinweis:** Dieses Repository dient ausschließlich Bildungszwecken und der Diskussion von Ideen. Es wurde von Fans und Interessierten erstellt und steht in keiner offiziellen Verbindung zu David Deutsch oder seinen Verlagen.
+**Hinweis:** Dieses Repository dient ausschließlich der Diskussion von Ideen. Es wurde von einem Fan und Interessierten erstellt und steht in keiner offiziellen Verbindung zu David Deutsch oder seinen Verlagen.
 
 Zwischen Vanilleeis und Zahnarzt – Über die Struktur des Bewusstseins in einer möglichen Welt
 
