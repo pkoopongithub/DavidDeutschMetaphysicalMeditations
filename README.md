@@ -4,7 +4,9 @@
 
 This repository presents text files that reflect and meditate on various aspects of the worldview from David Deutsch's works "The Fabric of Reality" and "The Beginning of Infinity." Each text file is self-contained and addresses a specific topic or idea from the mentioned books.
 
-## ContentsThe texts in this repository offer individual meditations and reflections on the concepts and theories of David Deutsch. You can browse through the various files and select those that pique your interest.
+## Contents
+
+The texts in this repository offer individual meditations and reflections on the concepts and theories of David Deutsch. You can browse through the various files and select those that pique your interest.
 
 **Note:** This repository is for educational purposes only and for the discussion of ideas. It has been created by fans and enthusiasts and has no official connection to David Deutsch or his publishers.
 
