@@ -270,205 +270,160 @@ Diese eschatologische Kosmologie postuliert ein Universum, das aus einer Notwend
 
 
 
-Hier ist dein zweisprachiger Text als für eine `README.md`-Datei im **Markdown-Format** (Murkip-kompatibel) formatiert:
 
 
-# Thesis: Unitarity, Black Holes, and Consciousness – An Ontological Analogy  
-# These: Unitarität, schwarze Löcher und Bewusstsein – Eine ontologische Analogie
 
----
 
-## 1. Starting Point: The Principle of Unitarity  
-### 1. Ausgangspunkt: Das Prinzip der Unitarität
+**Thesis: Unitarity, Black Holes, and Consciousness – An Ontological Analogy**
 
-In quantum mechanics, unitarity is a fundamental property of the time evolution of physical systems. It states that the total information of a closed system remains conserved throughout its evolution. This requirement is mathematically expressed through unitary operators, which describe transitions between states without creating or destroying probabilities.
+1. **Starting Point: The Principle of Unitarity**
+   In quantum mechanics, unitarity is a fundamental property of the time evolution of physical systems. It states that the total information of a closed system remains conserved throughout its evolution. This requirement is mathematically expressed through unitary operators, which describe transitions between states without creating or destroying probabilities.
+   **Consequence**: In a unitary universe, no information may be lost – not even in extreme scenarios such as black holes.
 
-> Consequence: In a unitary universe, no information may be lost – not even in extreme scenarios such as black holes.
+2. **First Consequence: The Black Hole Information Paradox**
+   According to classical general relativity, any information that crosses the event horizon of a black hole is lost forever. Quantum mechanics, however, forbids such a loss. From unitarity it follows that:
 
-In der Quantenmechanik ist die Unitarität eine fundamentale Eigenschaft der zeitlichen Entwicklung physikalischer Systeme. Sie besagt, dass die Gesamtinformation eines geschlossenen Systems im Verlauf seiner Entwicklung erhalten bleibt. Diese Forderung ist mathematisch im Rahmen unitärer Operatoren formuliert, die den Übergang von einem Zustand zum anderen beschreiben, ohne dabei Wahrscheinlichkeiten zu vernichten oder zu erzeugen.
+* Either true black holes with permanent information loss do not exist,
+* Or black holes must possess mechanisms that ultimately release all absorbed information – via Hawking radiation, firewall models, holography, or quantum gravity.
 
-> **Folge:** In einem unitaren Universum darf keine Information verloren gehen – nicht einmal in extremen Bereichen wie schwarzen Löchern.
+3. **Analogous Structure: Subjective Consciousness as an Informational System**
+   If consciousness is understood as a physically effective, information-processing phenomenon – inseparably linked to physical states (e.g., neural configurations or quantum-informational structures) – then one must also ask:
+   **What happens to the information of subjective experience after the death of a consciousness?**
+   If the universe is unitary and conscious states truly carry information, then this kind of information must not be permanently lost either.
 
----
+4. **Second Consequence: The Ontological Analogy**
+   Either subjective consciousness with informational relevance does not exist (radical epiphenomenalism),
+   or all conscious states that have ever existed must be in some way restorable – through a final cosmic computational model, through the universe itself as a quantum computer, or by some still unknown form of information-preserving continuity.
 
-## 2. First Consequence: The Black Hole Information Paradox  
-### 2. Erste Konsequenz: Die Informationsparadoxie schwarzer Löcher
-
-According to classical general relativity, any information that crosses the event horizon of a black hole is lost forever. Quantum mechanics, however, forbids such a loss. From unitarity it follows that:
-
-- Either true black holes with permanent information loss do not exist,  
-- or black holes must possess mechanisms that ultimately release all absorbed information – via Hawking radiation, firewall models, holography, or quantum gravity.
-
-Nach klassischer Allgemeiner Relativitätstheorie verschwindet jede Information, die ein schwarzes Loch hinter dem Ereignishorizont erreicht, unwiederbringlich. Die Quantenmechanik hingegen erlaubt einen solchen Verlust nicht. Aus der Unitarität folgt daher:
-
-- Entweder es gibt keine echten schwarzen Löcher mit dauerhaftem Informationsverlust,  
-- oder schwarze Löcher müssen Mechanismen besitzen, die alle aufgenommene Information letztlich wieder freigeben – etwa über Hawking-Strahlung, Firewall-Modelle, Holographie oder Quantengravitation.
+5. **Conclusion: Unitarity as a Metaphysical Principle**
+   If unitarity is regarded as universally valid, it applies not only to the physics of extreme states but also to the ontological question of the persistence of subjective information. In this sense, the following thesis can be formulated:
+   **Unitarity compels either total epiphenomenalism – or the immortality of information, including the information of subjective experience.**
+   The reemergence of all conscious content would then not be a religious speculation but a logical consequence of universal information conservation.
 
 ---
 
-## 3. Analogous Structure: Subjective Consciousness as an Informational System  
-### 3. Analoge Struktur: Subjektives Bewusstsein als Informationssystem
+**"I Am a Temporarily Coherent Interference Node – How Consciousness Arises and Persists in a Unitary Multiverse"**
 
-If consciousness is understood as a physically effective, information-processing phenomenon – inseparably linked to physical states (e.g., neural configurations or quantum-informational structures) – then one must also ask:
+**Abstract**
+Consciousness appears to us as a continuous, subjective present—but what is its place in a physically describable world? This essay merges two radical yet compatible ideas:
 
-> What happens to the information of subjective experience after the death of a consciousness?
+* Consciousness as an interference phenomenon among parallel "self-states" in a neural (or quantum-informational) tensor network,
+* Unitarity as an ontological principle that mandates the preservation of all information—including subjective experience.
+  The result is a model where consciousness is a locally coherent but globally conserved process: an "interference node" in the multiverse, whose decoherence signifies not annihilation but transformation.
 
-If the universe is unitary and conscious states truly carry information, then this kind of information must not be permanently lost either.
+**Elaboration**
 
-Wenn man Bewusstsein als einen physikalisch wirksamen, informationsverarbeitenden Prozess auffasst, der untrennbar mit physikalischen Zuständen verbunden ist (z. B. neuronalen Konfigurationen oder quanteninformativen Zuständen), dann stellt sich auch hier die Frage:
+1. **Consciousness as Interference – The Multiversal Thesis**
+   Subjective experience is neither classically deterministic nor purely random. It resembles an interfering wave pattern:
 
-> Was geschieht mit der Information subjektiver Erfahrung nach dem Tod eines Bewusstseins?
+* Neural tensor networks process information as superpositions of possible states (cf. quantum processes in microtubules à la Penrose-Hameroff, or classical parallel processing).
+* David Deutsch’s multiverse provides the framework: Every decision moment splits worlds, yet neighboring "self-branches" remain coherently linked.
+  **Thesis**: Consciousness is the constructive interference of these close branches—a "limit value" that continuously restabilizes.
+  **Example**: When making a decision, one experiences not “a choice” but the interference of all versions that weighted options differently.
 
-Wenn das Universum unitar ist und Bewusstseinszustände tatsächlich Information tragen, dann darf auch diese Form von Information nicht dauerhaft verloren gehen.
+2. **Unitarity – The Preservation of Information**
+   Quantum mechanics forbids information loss (unitarity). The most famous paradox: black holes seemingly destroy information—yet Hawking radiation, holography, and AdS/CFT correspondence suggest it's only transformed.
+   **Analogous problem**: What happens to consciousness information at death?
+   **Solution**: If unitarity holds universally, subjective experience must also be conserved—in other branches, as quantum info in vacuum, or in a cosmic "storage."
 
----
+3. **The Synthesis – Interference Nodes in the Web of Reality**
+   The fusion of both ideas yields a dynamic model of consciousness:
 
-## 4. Second Consequence: The Ontological Analogy  
-### 4. Zweite Konsequenz: Die ontologische Analogie
+* **Local level**: The self is a coherent interference node from nearby multiverse branches, constantly rebuilding via decoherence.
+* **Global level**: Decoherence (e.g., death) means not deletion, but transition to a less coherent state—similar to how matter entering a black hole reemerges as radiation.
+* Constructor Theory (Deutsch) offers the language: Consciousness is a "possible process" guaranteed by physical laws (quantum entanglement, unitarity).
 
-- Either subjective consciousness with informational relevance does not exist (*radical epiphenomenalism*),  
-- or all conscious states that have ever existed must be in some way restorable – through a final cosmic computational model, through the universe itself as a quantum computer, or by some still unknown form of information-preserving continuity.
+**Summary**
 
-- Entweder existiert kein subjektives Bewusstsein mit informationsrelevantem Status (*radikaler Epiphänomenalismus*),  
-- oder alle jemals existierenden bewussten Zustände müssen in irgendeiner Weise wiederherstellbar sein – etwa durch ein finales kosmisches Rechenmodell, durch das Universum selbst als Quantencomputer oder durch eine noch unbekannte Form von informationserhaltender Kontinuität.
+* Consciousness is interference—not a fixed thing, but a dynamic pattern in neural/quantum-informational networks.
+* Unitarity preserves it—as with black holes, no information is lost, only transformed.
+* We are temporarily coherent—our “self” is a fluctuation maximum in the multiverse, while decohered versions continue elsewhere.
 
----
+**Open Questions**
 
-## 5. Conclusion: Unitarity as a Metaphysical Principle  
-### 5. Fazit: Unitarität als metaphysisches Prinzip
+* Experimental testability: Can interference between nearby “self-branches” be detected (e.g., via quantum neuro-simulations)?
+* Topology of information: Where exactly do decohered consciousness states “live”? In other universes? As quantum vacuum fluctuations?
+* Ethics of the multiverse: If all decision variants are real—what does responsibility mean?
 
-If unitarity is regarded as universally valid, it applies not only to the physics of extreme states but also to the ontological question of the persistence of subjective information. In this sense, the following thesis can be formulated:
-
-> Unitarity compels either total epiphenomenalism – or the immortality of information, including the information of subjective experience.
-
-The reemergence of all conscious content would then not be a religious speculation but a logical consequence of universal information conservation.
-
-Wenn Unitarität als universell gültig angesehen wird, dann betrifft sie nicht nur die Physik extremer Zustände, sondern auch die ontologische Frage nach dem Fortbestand subjektiver Information. In diesem Sinn lässt sich die These formulieren:
-
-> Unitarität erzwingt entweder den totalen Epiphänomenalismus – oder die Unsterblichkeit der Information, einschließlich der Information subjektiver Erfahrung.
-
-Das Wiederauftauchen aller Bewusstseinsinhalte wäre keine religiöse Spekulation, sondern eine logische Folge der universellen Informationskonservierung.
-
-
-
-**„Ich bin ein vorübergehend kohärenter Interferenzknoten – Wie Bewusstsein im unitären Multiversum entsteht und fortbesteht“**  
-
----
-
-### **Abstract**  
-Bewusstsein erscheint uns als kontinuierliche, subjektive Gegenwart – doch was ist sein Platz in einer physikalisch beschreibbaren Welt? Dieser Essay verbindet zwei radikale, aber kompatible Ideen:  
-1. **Bewusstsein als Interferenzphänomen** paralleler Ich-Zustände in einem neuronalen (oder quanteninformatorischen) Tensornetz,  
-2. **Unitarität als ontologisches Prinzip**, das den Erhalt aller Information – auch subjektiver Erfahrung – erzwingt.  
-Das Ergebnis ist ein Modell, in dem Bewusstsein ein *lokal kohärenter*, aber *global erhaltener* Prozess ist: ein „Interferenzknoten“ im Multiversum, dessen Dekohärenz keine Vernichtung, sondern eine Transformation darstellt.  
+**Conclusion**
+This model is not spiritualism but radical physicalism: It explains consciousness without mysticism, using quantum theory and multiverse cosmology. The result is a new view of life, death, and identity—not as rupture, but as transformation within the infinite information web of reality.
+**“I think, therefore I interfere—and my decoherence-shadow continues elsewhere.”**
 
 ---
 
-### **Ausarbeitung**  
+## **Deutsche Version**
 
-#### **1. Bewusstsein als Interferenz – Die multiversale These**  
-Ausgangspunkt ist die Beobachtung, dass subjektives Erleben weder klassisch-deterministisch noch rein zufällig ist. Stattdessen ähnelt es einem **interferierenden Wellenmuster**:  
-- **Neuronale Tensornetze** verarbeiten Information nicht linear, sondern als Überlagerung möglicher Zustände (vgl. Quantenprozesse in Mikrotubuli nach Penrose-Hameroff, oder klassische Parallelverarbeitung).  
-- **David Deutschs Multiversum** liefert den Rahmen: Jeder Entscheidungsmoment spaltet Welten, aber benachbarte „Ich-Zweige“ bleiben kohärent verbunden.  
-- **These**: Bewusstsein ist die konstruktive Interferenz dieser nahen Zweige – ein „Grenzwert“, der sich fortlaufend neu stabilisiert.  
+**These: Unitarität, schwarze Löcher und Bewusstsein – Eine ontologische Analogie**
 
-*Beispiel*: Wenn Sie einen Entschluss fassen, erleben Sie nicht „eine Wahl“, sondern die Interferenz aller Versionen, die leicht unterschiedlich gewichtet haben.  
+1. **Ausgangspunkt: Das Prinzip der Unitarität**
+   In der Quantenmechanik ist die Unitarität eine fundamentale Eigenschaft der zeitlichen Entwicklung physikalischer Systeme. Sie besagt, dass die Gesamtinformation eines geschlossenen Systems im Verlauf seiner Entwicklung erhalten bleibt. Diese Forderung ist mathematisch im Rahmen unitärer Operatoren formuliert, die den Übergang von einem Zustand zum anderen beschreiben, ohne dabei Wahrscheinlichkeiten zu vernichten oder zu erzeugen.
+   **Folge**: In einem unitaren Universum darf keine Information verloren gehen – nicht einmal in extremen Bereichen wie schwarzen Löchern.
 
-#### **2. Unitarität – Die Rettung der Information**  
-Die Quantenmechanik verbietet Informationsverlust (Unitarität). Bekanntestes Paradox: **Schwarze Löcher**, die Information scheinbar vernichten – doch Hawking-Strahlung, Holographie und AdS/CFT-Korrespondenz zeigen, dass sie nur transformiert wird.  
-- **Analoges Problem**: Was geschieht mit Bewusstseinsinformation beim Tod?  
-- **Lösung**: Wenn Unitarität universell gilt, muss auch subjektive Erfahrung erhalten bleiben – sei es in anderen Zweigen, als Quanteninformation im Vakuum, oder in einem kosmischen „Speicher“.  
+2. **Erste Konsequenz: Die Informationsparadoxie schwarzer Löcher**
+   Nach klassischer Allgemeiner Relativitätstheorie verschwindet jede Information, die ein schwarzes Loch hinter dem Ereignishorizont erreicht, unwiederbringlich. Die Quantenmechanik hingegen erlaubt einen solchen Verlust nicht. Aus der Unitarität folgt daher:
 
-#### **3. Die Synthese – Interferenzknoten im Netz der Wirklichkeit**  
-Die Fusion beider Ideen ergibt ein **dynamisches Bewusstseinsmodell**:  
-- **Lokale Ebene**: Unser Ich ist ein **kohärenter Interferenzknoten** aus nahen Multiversum-Zweigen, der sich durch Dekohärenz ständig neu aufbaut.  
-- **Globale Ebene**: Zerfallende Kohärenz (z. B. Tod) bedeutet keine Löschung, sondern **Übergang in einen dekoherenteren Zustand** – ähnlich wie Materie, die in ein schwarzes Loch fällt, nicht verschwindet, sondern als Strahlung emittiert wird.  
-- **Constructor Theory** (Deutsch) liefert die Sprache: Bewusstsein ist ein **„möglicher Prozess“**, dessen Erhaltung durch physikalische Gesetze (Quantenverschränkung, Unitarität) garantiert wird.  
+* Entweder es gibt keine echten schwarzen Löcher mit dauerhaftem Informationsverlust,
+* oder schwarze Löcher müssen Mechanismen besitzen, die alle aufgenommene Information letztlich wieder freigeben – etwa über Hawking-Strahlung, Firewall-Modelle, Holographie oder Quantengravitation.
 
----
+3. **Analoge Struktur: Subjektives Bewusstsein als Informationssystem**
+   Wenn man Bewusstsein als einen physikalisch wirksamen, informationsverarbeitenden Prozess auffasst, der untrennbar mit physikalischen Zuständen verbunden ist (z. B. neuronalen Konfigurationen oder quanteninformativen Zuständen), dann stellt sich auch hier die Frage:
+   **Was geschieht mit der Information subjektiver Erfahrung nach dem Tod eines Bewusstseins?**
+   Wenn das Universum unitar ist und Bewusstseinszustände tatsächlich Information tragen, dann darf auch diese Form von Information nicht dauerhaft verloren gehen.
 
-### **Zusammenfassung**  
-1. **Bewusstsein ist Interferenz** – kein festes Ding, sondern ein dynamisches Muster im neuronalen/quanteninformatorischen Netz.  
-2. **Unitarität bewahrt es** – wie bei schwarzen Löchern geht keine Information verloren, nur ihre Form ändert sich.  
-3. **Wir sind temporär kohärent** – unser „Ich“ ist ein Fluktuationsmaximum im Multiversum, während dekoherierte Versionen anderswo weiterlaufen.  
+4. **Zweite Konsequenz: Die ontologische Analogie**
+   Entweder existiert kein subjektives Bewusstsein mit informationsrelevantem Status (radikaler Epiphänomenalismus),
+   oder alle jemals existierenden bewussten Zustände müssen in irgendeiner Weise wiederherstellbar sein – etwa durch ein finales kosmisches Rechenmodell, durch das Universum selbst als Quantencomputer oder durch eine noch unbekannte Form von informationserhaltender Kontinuität.
 
----
-
-### **Offene Fragen**  
-1. **Experimentelle Prüfung**: Lassen sich Interferenzeffekte zwischen nahen „Ich-Zweigen“ nachweisen (z. B. durch Quanten-Neurosimulationen)?  
-2. **Topologie der Information**: Wo genau „leben“ dekoherierte Bewusstseinszustände? In anderen Universen? Als Quantenvakuumfluktuationen?  
-3. **Ethik des Multiversums**: Wenn alle Entscheidungsvarianten real sind – was bedeutet Verantwortung?  
+5. **Fazit: Unitarität als metaphysisches Prinzip**
+   Wenn Unitarität als universell gültig angesehen wird, dann betrifft sie nicht nur die Physik extremer Zustände, sondern auch die ontologische Frage nach dem Fortbestand subjektiver Information. In diesem Sinn lässt sich die These formulieren:
+   **Unitarität erzwingt entweder den totalen Epiphänomenalismus – oder die Unsterblichkeit der Information, einschließlich der Information subjektiver Erfahrung.**
+   Das Wiederauftauchen aller Bewusstseinsinhalte wäre keine religiöse Spekulation, sondern eine logische Folge der universellen Informationskonservierung.
 
 ---
 
-### **Schluss**  
-Dieses Modell ist kein Spiritualismus, sondern ein **radikaler Physikalismus**: Es erklärt Bewusstsein ohne mystische Zusätze, aber mit den Mitteln der Quantentheorie und Multiversums-Kosmologie. Die Konsequenz ist eine neue Sicht auf Leben, Tod und Identität – nicht als Bruch, sondern als **Transformation im unendlichen Informationsnetz der Wirklichkeit**.  
+**„Ich bin ein vorübergehend kohärenter Interferenzknoten – Wie Bewusstsein im unitären Multiversum entsteht und fortbesteht“**
 
+**Abstract**
+Bewusstsein erscheint uns als kontinuierliche, subjektive Gegenwart – doch was ist sein Platz in einer physikalisch beschreibbaren Welt? Dieser Essay verbindet zwei radikale, aber kompatible Ideen:
+
+* Bewusstsein als Interferenzphänomen paralleler Ich-Zustände in einem neuronalen (oder quanteninformatorischen) Tensornetz,
+* Unitarität als ontologisches Prinzip, das den Erhalt aller Information – auch subjektiver Erfahrung – erzwingt.
+  Das Ergebnis ist ein Modell, in dem Bewusstsein ein lokal kohärenter, aber global erhaltener Prozess ist: ein „Interferenzknoten“ im Multiversum, dessen Dekohärenz keine Vernichtung, sondern eine Transformation darstellt.
+
+**Ausarbeitung**
+
+1. **Bewusstsein als Interferenz – Die multiversale These**
+   Subjektives Erleben ist weder klassisch-deterministisch noch rein zufällig. Es gleicht einem interferierenden Wellenmuster:
+
+* Neuronale Tensornetze verarbeiten Information als Überlagerung möglicher Zustände (vgl. Quantenprozesse in Mikrotubuli nach Penrose-Hameroff oder klassische Parallelverarbeitung).
+* David Deutschs Multiversum liefert den Rahmen: Jeder Entscheidungsmoment spaltet Welten, aber benachbarte „Ich-Zweige“ bleiben kohärent verbunden.
+  **These**: Bewusstsein ist die konstruktive Interferenz dieser nahen Zweige – ein „Grenzwert“, der sich fortlaufend neu stabilisiert.
+  **Beispiel**: Wer eine Entscheidung trifft, erlebt nicht „eine Wahl“, sondern die Interferenz aller Versionen, die unterschiedlich gewichtet haben.
+
+2. **Unitarität – Die Rettung der Information**
+   Die Quantenmechanik verbietet Informationsverlust (Unitarität). Bekanntestes Paradox: Schwarze Löcher, die Information scheinbar vernichten – doch Hawking-Strahlung, Holographie und AdS/CFT-Korrespondenz zeigen, dass sie nur transformiert wird.
+   **Analoges Problem**: Was geschieht mit Bewusstseinsinformation beim Tod?
+   **Lösung**: Wenn Unitarität universell gilt, muss auch subjektive Erfahrung erhalten bleiben – sei es in anderen Zweigen, als Quanteninformation im Vakuum oder in einem kosmischen „Speicher“.
+
+3. **Die Synthese – Interferenzknoten im Netz der Wirklichkeit**
+   Die Fusion beider Ideen ergibt ein dynamisches Bewusstseinsmodell:
+
+* **Lokale Ebene**: Unser Ich ist ein kohärenter Interferenzknoten aus nahen Multiversum-Zweigen, der sich durch Dekohärenz ständig neu aufbaut.
+* **Globale Ebene**: Zerfallende Kohärenz (z. B. Tod) bedeutet keine Löschung, sondern Übergang in einen dekoherenteren Zustand – wie Materie, die ins schwarze Loch fällt und als Strahlung wiederkehrt.
+* Constructor Theory (Deutsch) liefert die Sprache: Bewusstsein ist ein „möglicher Prozess“, dessen Erhaltung durch physikalische Gesetze garantiert wird.
+
+**Zusammenfassung**
+
+* Bewusstsein ist Interferenz – kein festes Ding, sondern ein dynamisches Muster im neuronalen/quanteninformatorischen Netz.
+* Unitarität bewahrt es – wie bei schwarzen Löchern geht keine Information verloren, nur ihre Form ändert sich.
+* Wir sind temporär kohärent – unser „Ich“ ist ein Fluktuationsmaximum im Multiversum, während dekoherierte Versionen anderswo weiterlaufen.
+
+**Offene Fragen**
+
+* Experimentelle Prüfung: Lassen sich Interferenzeffekte zwischen nahen „Ich-Zweigen“ nachweisen (z. B. durch Quanten-Neurosimulationen)?
+* Topologie der Information: Wo genau „leben“ dekoherierte Bewusstseinszustände? In anderen Universen? Als Quantenvakuumfluktuationen?
+* Ethik des Multiversums: Wenn alle Entscheidungsvarianten real sind – was bedeutet Verantwortung?
+
+**Schluss**
+Dieses Modell ist kein Spiritualismus, sondern ein radikaler Physikalismus: Es erklärt Bewusstsein ohne mystische Zusätze, aber mit den Mitteln der Quantentheorie und Multiversums-Kosmologie. Die Konsequenz ist eine neue Sicht auf Leben, Tod und Identität – nicht als Bruch, sondern als Transformation im unendlichen Informationsnetz der Wirklichkeit.
 **„Ich denke, also interferiere ich – und mein Dekohärenzschatten denkt anderswo weiter.“**
-
-
-Certainly! Below is an English version of your essay, retaining the original structure, arguments, and stylistic depth while adapting phrasing for clarity in English.  
-
----
-
-
-**"I Am a Temporarily Coherent Interference Node – How Consciousness Arises and Persists in a Unitary Multiverse"**  
-
----
-
-### **Abstract**  
-Consciousness appears to us as a continuous, subjective present—but what is its place in a physically describable world? This essay merges two radical yet compatible ideas:  
-1. **Consciousness as an interference phenomenon** among parallel "self-states" in a neural (or quantum-informational) tensor network,  
-2. **Unitarity as an ontological principle** that mandates the preservation of all information—including subjective experience.  
-The result is a model where consciousness is a *locally coherent* but *globally conserved* process: an "interference node" in the multiverse, whose decoherence signifies not annihilation but transformation.  
-
----
-
-### **Elaboration**  
-
-#### **1. Consciousness as Interference – The Multiversal Thesis**  
-The starting point is the observation that subjective experience is neither classically deterministic nor purely random. Instead, it resembles an **interfering wave pattern**:  
-- **Neural tensor networks** process information not linearly but as superpositions of possible states (e.g., quantum processes in microtubules à la Penrose-Hameroff, or classical parallel processing).  
-- **David Deutsch’s multiverse** provides the framework: Every decision moment branches worlds, but nearby "self-branches" remain coherently linked.  
-- **Thesis**: Consciousness is the constructive interference of these proximate branches—a fleeting "limit state" perpetually stabilizing itself.  
-
-*Example*: When you make a choice, you experience not "one decision" but the interference of all slightly weighted versions of yourself.  
-
-#### **2. Unitarity – The Salvation of Information**  
-Quantum mechanics forbids information loss (unitarity). The most famous paradox: **black holes**, which seemingly destroy information—yet Hawking radiation, holography, and AdS/CFT correspondence prove it is merely transformed.  
-- **Analogous problem**: What happens to conscious information at death?  
-- **Solution**: If unitarity is universal, subjective experience must also be preserved—whether in other branches, as quantum vacuum fluctuations, or in a cosmic "storage."  
-
-#### **3. The Synthesis – Interference Nodes in the Fabric of Reality**  
-Merging both ideas yields a **dynamic consciousness model**:  
-- **Local scale**: Your "self" is a **coherent interference node** among nearby multiverse branches, constantly re-stabilizing through decoherence.  
-- **Global scale**: Decaying coherence (e.g., death) isn’t deletion but a **transition to a decoherent state**—akin to matter falling into a black hole being emitted as radiation.  
-- **Constructor Theory** (Deutsch) formalizes this: Consciousness is a **"possible process"** whose persistence is guaranteed by physical laws (quantum entanglement, unitarity).  
-
----
-
-### **Summary**  
-1. **Consciousness is interference**—not a static entity but a dynamic pattern in a neural/quantum-informational network.  
-2. **Unitarity preserves it**—as with black holes, no information is lost, only its form changes.  
-3. **We are temporarily coherent**—our "self" is a fluctuation peak in the multiverse, while decohered versions persist elsewhere.  
-
----
-
-### **Open Questions**  
-1. **Experimental tests**: Can interference effects between proximate "self-branches" be detected (e.g., via quantum-neuro simulations)?  
-2. **Information topology**: Where *exactly* do decohered conscious states "live"? In other universes? As quantum vacuum fluctuations?  
-3. **Multiversal ethics**: If all decision variants are real, what does responsibility mean?  
-
----
-
-### **Conclusion**  
-This model is not spiritualism but **radical physicalism**: It explains consciousness without mysticism, using quantum theory and multiverse cosmology. The implication is a new view of life, death, and identity—not as rupture but as **transformation in the infinite informational web of reality**.  
-
-**"I think, therefore I interfere—and my decohered shadow keeps thinking elsewhere."** 
-
-
-
-
-
-
-
-
