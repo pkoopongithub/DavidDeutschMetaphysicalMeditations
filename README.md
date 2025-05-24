@@ -349,9 +349,7 @@ Consciousness appears to us as a continuous, subjective present—but what is it
 This model is not spiritualism but radical physicalism: It explains consciousness without mysticism, using quantum theory and multiverse cosmology. The result is a new view of life, death, and identity—not as rupture, but as transformation within the infinite information web of reality.
 **“I think, therefore I interfere—and my decoherence-shadow continues elsewhere.”**
 
----
 
-## **Deutsche Version**
 
 **These: Unitarität, schwarze Löcher und Bewusstsein – Eine ontologische Analogie**
 
