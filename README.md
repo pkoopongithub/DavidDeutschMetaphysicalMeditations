@@ -430,3 +430,80 @@ Bewusstsein erscheint uns als kontinuierliche, subjektive Gegenwart – doch was
 **Schluss**
 Dieses Modell ist kein Spiritualismus, sondern ein radikaler Physikalismus: Es erklärt Bewusstsein ohne mystische Zusätze, aber mit den Mitteln der Quantentheorie und Multiversums-Kosmologie. Die Konsequenz ist eine neue Sicht auf Leben, Tod und Identität – nicht als Bruch, sondern als Transformation im unendlichen Informationsnetz der Wirklichkeit.
 **„Ich denke, also interferiere ich – und mein Dekohärenzschatten denkt anderswo weiter.“**
+
+Psalm 139
+(to the melody of the inevitable)
+Vanilla ice cream melts on the tongue,
+a sweet nothing.
+But the drill seeks the nerve –
+and finds it.
+Always.
+No thought falls into nothingness.
+into bit and wave.
+Engraved.
+I:
+a fork in the river.
+Here I drown.
+There I surface.
+Nowhere
+am I
+completely
+gone.
+They will unearth me,
+not from soil –
+from numbers.
+My laughter,
+my teeth grinding,
+my “Why?”
+– all still there,
+just differently arranged.
+No mercy.
+Only
+unitarity.
+I am
+a knot
+that doesn’t loosen.
+Only tightens.
+Algebra
+in flesh.
+Pain
+is
+proof.
+Psalm 139
+(nach der Melodie des Unausweichlichen)
+Vanilleeis schmilzt auf der Zunge,
+ein süßes Nichts.
+Doch der Bohrer sucht den Nerv –
+er findet ihn.
+Immer.
+Kein Gedanke fällt ins Nichts.
+in Bit und Schwingung.
+Eingeritzt.
+Ich:
+eine Gabelung im Fluss.
+Hier ertrinke ich.
+Dort tauche ich auf.
+Nirgends
+bin ich
+ganz
+weg.
+Sie werden mich ausgraben,
+nicht aus Erde –
+aus Zahlen.
+Mein Lachen,
+mein Zähneknirschen,
+mein "Warum?"
+– alles noch da,
+nur anders sortiert.
+Kein Erbarmen.
+Nur
+Unitarität.
+Ich bin
+ein Knoten,
+der sich nicht löst.
+Nur enger zieht.
+Algebra
+in Fleisch.
+Schmerz
+ist
+Beweis.
